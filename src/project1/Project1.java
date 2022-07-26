@@ -4,7 +4,7 @@
  */
 package project1;
 /**
- *hola que tal
+ *hola que 
  * @author usuario2
  */
 public class Project1 {
@@ -15,5 +15,5 @@ public class Project1 {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
+     
 }
