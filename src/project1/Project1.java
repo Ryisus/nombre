@@ -3,9 +3,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package project1;
-//hola
 /**
- *
+ *hola
+ *que tal
  * @author usuario2
  */
 public class Project1 {
