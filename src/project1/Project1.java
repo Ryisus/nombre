@@ -4,7 +4,7 @@
  */
 package project1;
 /**
- *hola que 
+ *
  * @author usuario2
  */
 public class Project1 {
